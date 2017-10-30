@@ -29,4 +29,16 @@ folium.Marker([-7.7848994,110.3230408], popup='<i>Mie Ayam " Bu Tini "</i>').add
 folium.Marker([-7.785114,110.3230952], popup='<i>Soto & Bakso Pak Pagi</i>').add_to(kelompok4)
 folium.Marker([-7.7856827,110.3229463], popup='<i>Mava Masakan Padang</i>').add_to(kelompok4)
 
+
+folium.Marker([-7.7831125,110.322497], popup='<i>Perumahan Sidoarum Blok 3 RW 16 Arumsari</i>').add_to(kelompok4)
+folium.Marker([-7.7844,110.324801], popup='<i>Perumahan Mejing Wetan</i>').add_to(kelompok4)
+folium.Marker([-7.785858,110.3253207], popup='<i>Perumahan Ambarketawang Indah</i>').add_to(kelompok4)
+folium.Marker([-7.7874744,110.3246629], popup='<i>SMK YPKK 1 Sleman</i>').add_to(kelompok4)
+folium.Marker([-7.7879195,110.3244128], popup='<i>MBENGI CREATIVE DESIGN</i>').add_to(kelompok4)
+folium.Marker([-7.7885194,110.3250974], popup='<i>Devryan Servis Hp</i>').add_to(kelompok4)
+folium.Marker([-7.7895711,110.3263084], popup='<i>Masjid Al Ikhlas</i>').add_to(kelompok4)
+folium.Marker([-7.7881467,110.3233949], popup='<i>Graha Flamboyan, Mejing Wetan, Gamping, Sleman</i>').add_to(kelompok4)
+folium.Marker([-7.7881049,110.3251799], popup='<i>BAWANG BRAMBANG GROSIR MURAH</i>').add_to(kelompok4)
+folium.Marker([-7.7882494,110.323254], popup='<i>Joglo Rete Pak Mbang</i>').add_to(kelompok4)
+
 kelompok4
