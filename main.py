@@ -54,4 +54,17 @@ folium.Marker([-7.8427086,110.3882204], popup='<i>Rumah Sakit Bedah Adelia</i>')
 folium.Marker([-7.8368457,110.3911035], popup='<i>SPBU Pertamina Giwangan Yogyakarta</i>').add_to(kelompok4)
 
 
+
+folium.Marker([-8.0943186,110.609774], popup='<i>SMPN 2 Tanjungsari</i>').add_to(kelompok4)
+folium.Marker([-8.0001266,110.6594801], popup='<i>Toko Baru LG</i>').add_to(kelompok4)
+folium.Marker([-7.9651995,110.597724], popup='<i>Bunderan PLN</i>').add_to(kelompok4)
+folium.Marker([-7.9891535,110.2943388], popup='<i>Prasasti Pangkah Village</i>').add_to(kelompok4)
+folium.Marker([-7.9404464,110.2297264], popup='<i>Tugu Brosot</i>').add_to(kelompok4)
+folium.Marker([-7.8941598,110.1388583], popup='<i>Masjid Nurulhuda Bendungan Wates</i>').add_to(kelompok4)
+folium.Marker([-7.7677251,110.2082965], popup='<i>Pasar Nanggulan</i>').add_to(kelompok4)
+folium.Marker([-7.7786985,110.2793253], popup='<i>Museum Soeharto</i>').add_to(kelompok4)
+folium.Marker([-7.8799795,110.327734], popup='<i>Stadion Dwi Windu</i>').add_to(kelompok4)
+folium.Marker([-7.8051198,110.3650594], popup='<i>Gembira Loka Zoo</i>').add_to(kelompok4)
+
+
 kelompok4
