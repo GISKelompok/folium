@@ -66,5 +66,64 @@ folium.Marker([-7.7786985,110.2793253], popup='<i>Museum Soeharto</i>').add_to(k
 folium.Marker([-7.8799795,110.327734], popup='<i>Stadion Dwi Windu</i>').add_to(kelompok4)
 folium.Marker([-7.8051198,110.3650594], popup='<i>Gembira Loka Zoo</i>').add_to(kelompok4)
 
+folium.Marker(
+    location=[-7.787710, 110.390385],
+    popup='Kampus III Institut Sains & Teknologi AKPRIND',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.785917, 110.391643],
+    popup='Sekolah Dasar Muhammadiyah Sapen - Gedung Barat - Yogyakarta',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.784693, 110.393924],
+    popup='Universitas Islam Negeri Sunan Kalijaga',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.785695, 110.387879],
+    popup='SPBU Pertamina 44.552.16 Munggur',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.783502, 110.391486],
+    popup='Hotel New Saphir Yogyakarta',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.783223, 110.389665],
+    popup='Ayam Goreng Spesial Lombok Idjo',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.782967, 110.392845],
+    popup='Atrium Premiere Hotel Jogja',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.782811, 110.394295],
+    popup='XL Center Adisucipto Yogyakarta',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.782700, 110.396463],
+    popup='Affandi Museum',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.783268, 110.388002],
+    popup='Lampu Merah Urip Sumoharjo - Munggur',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
 
 kelompok4
