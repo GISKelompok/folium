@@ -41,4 +41,17 @@ folium.Marker([-7.7881467,110.3233949], popup='<i>Graha Flamboyan, Mejing Wetan,
 folium.Marker([-7.7881049,110.3251799], popup='<i>BAWANG BRAMBANG GROSIR MURAH</i>').add_to(kelompok4)
 folium.Marker([-7.7882494,110.323254], popup='<i>Joglo Rete Pak Mbang</i>').add_to(kelompok4)
 
+
+folium.Marker([-7.8673638,110.4066722], popup='<i>Museum Sejarah Purbakala Pleret</i>').add_to(kelompok4)
+folium.Marker([-7.8664763,110.4073856], popup='<i>Rumah Sakit Permata Husada</i>').add_to(kelompok4)
+folium.Marker([-7.8621903,110.4077336], popup='<i>Abu Production</i>').add_to(kelompok4)
+folium.Marker([-7.8613412,110.4077771], popup='<i>Salma Collection</i>').add_to(kelompok4)
+folium.Marker([-7.8601987,110.4093394], popup='<i>Rahma Laundry</i>').add_to(kelompok4)
+folium.Marker([-7.8596514,110.4092878], popup='<i>Museum Padepokan Sumber Karahajon</i>').add_to(kelompok4)
+folium.Marker([-7.858833,110.4033695], popup='<i>KROTOBOOM</i>').add_to(kelompok4)
+folium.Marker([-7.8606783,110.4021209], popup='<i>Glugu Super Mbah Muji</i>').add_to(kelompok4)
+folium.Marker([-7.8427086,110.3882204], popup='<i>Rumah Sakit Bedah Adelia</i>').add_to(kelompok4)
+folium.Marker([-7.8368457,110.3911035], popup='<i>SPBU Pertamina Giwangan Yogyakarta</i>').add_to(kelompok4)
+
+
 kelompok4
