@@ -126,4 +126,68 @@ folium.Marker(
     icon=folium.Icon(color='orange', icon='info-sign')
 ).add_to(kelompok4)
 
+
+
+folium.Marker(
+    location=[-7.9545667,110.3892163],
+    popup='Hutan Pinus Asri',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8933587,110.3514563],
+    popup='Pasar Seni Gabusan',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.845654,110.4452133],
+    popup='Bukit Bintang / Hargodumilah',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.7540696,110.2296925],
+    popup='Jatiningsih Spring Mary Cave',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.7339558,110.1936007],
+    popup='Campus Field STTNAS',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.7115658,110.1583886],
+    popup='Meubel Mbah Barjan',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8506352,110.5386101],
+    popup='Embung Nglanggeran',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8383275,110.5137407],
+    popup='Pemancar TVRI Patuk - Jogjakarta',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.782700, 110.396463],
+    popup='Affandi Museum',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.783268, 110.388002],
+    popup='Lampu Merah Urip Sumoharjo - Munggur',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+
+
 kelompok4
