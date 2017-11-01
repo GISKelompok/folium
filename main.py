@@ -190,4 +190,67 @@ folium.Marker(
 
 
 
+
+folium.Marker(
+    location=[-7.8323116,110.5092667],
+    popup='Rejosari Srimartani Piyungan Bantul',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8290964,110.4955325],
+    popup='Kembangsari HotSpot 9765155',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8272258,110.492566],
+    popup='Wardoyo',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8253923,110.490616],
+    popup='Jatiningsih Spring Mary Cave',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8256215,110.4811726],
+    popup='Griya Piyungan Asri',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8237826,110.4793514],
+    popup='Toko Alat Listrik dan Elektronik Alvin',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8228805,110.4791851],
+    popup='Lesehan Pecel Lele "NGALANG" OMBO',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8218596,110.479787],
+    popup='Kranggan Jaya',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.822225,110.4799023],
+    popup='Sate Ayam Asli Madura "Cak Imam"',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+folium.Marker(
+    location=[-7.8215959,110.4800351],
+    popup='Trent Gordyn',
+    icon=folium.Icon(color='orange', icon='info-sign')
+).add_to(kelompok4)
+
+
+
 kelompok4
