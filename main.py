@@ -224,7 +224,7 @@ folium.Marker(
 folium.Marker(
     location=[-7.8290964,110.4955325],
     popup='Kembangsari HotSpot 9765155',
-    icon=folium.Icon(color='orange', icon='info-sign')
+    icon=folium.Icon(color='orange', icon='info-sign') 
 ).add_to(kelompok4)
 
 folium.Marker(
